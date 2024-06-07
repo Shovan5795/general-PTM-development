@@ -1,0 +1,77 @@
+﻿Sentence,Label
+"[E]PROTEIN[/E] MODIFIES histone H3 on K122, contributing to epigenetic regulation and gene expression in cancer cells",0
+"HAT1 MODIFIES [E]PROTEIN[/E] on K122, contributing to epigenetic regulation and gene expression in cancer cells",1
+"HAT1 MODIFIES histone H3 on [E]PROTEIN[/E], contributing to epigenetic regulation and gene expression in cancer cells",1
+"Moreover, [E]PROTEIN[/E] catalyzes the MODIFICATION of PGAM1 on K99, resulting in its increased enzymatic activity and the stimulation of glycolytic flux in cancer cells",0
+"Moreover, HAT1 catalyzes the MODIFICATION of [E]PROTEIN[/E] on K99, resulting in its increased enzymatic activity and the stimulation of glycolytic flux in cancer cells",1
+"Moreover, HAT1 catalyzes the MODIFICATION of PGAM1 on [E]PROTEIN[/E], resulting in its increased enzymatic activity and the stimulation of glycolytic flux in cancer cells",1
+"Functionally, [E]PROTEIN[/E] TRANSFERASE activity and the MODIFICATION of PGAM1 by HAT1 play critical roles in promoting tumor progression in vitro and in vivo",0
+"Functionally, HAT1 TRANSFERASE activity and the MODIFICATION of [E]PROTEIN[/E] by HAT1 play critical roles in promoting tumor progression in vitro and in vivo",1
+"Functionally, HAT1 TRANSFERASE activity and the MODIFICATION of PGAM1 by [E]PROTEIN[/E] play critical roles in promoting tumor progression in vitro and in vivo",0
+"[E]PROTEIN[/E] acts as a TRANSFERASE and MODIFIES histone H3 on lysine 79, with a maximum frequency around the transcription start sites of genes",0
+"KAT2A acts as a TRANSFERASE and MODIFIES [E]PROTEIN[/E] on lysine 79, with a maximum frequency around the transcription start sites of genes",1
+"KAT2A acts as a TRANSFERASE and MODIFIES histone H3 on [E]PROTEIN[/E], with a maximum frequency around the transcription start sites of genes",1
+"We identified [E]PROTEIN[/E] MODIFICATION sites in HeLa, mouse embryonic fibroblast, Drosophila S2, and Saccharomyces cerevisiae cells, respectively",1
+"Deletion of [E]PROTEIN[/E] in mice appeared to increase the level of MODIFICATION on carbamoyl phosphate synthase 1, which is a known target of Sirt5",0
+"Deletion of Sirt5 in mice appeared to increase the level of MODIFICATION on [E]PROTEIN[/E], which is a known target of Sirt5",1
+"Deletion of Sirt5 in mice appeared to increase the level of MODIFICATION on carbamoyl phosphate synthase 1, which is a known target of [E]PROTEIN[/E]",0
+MODIFICATION of [E]PROTEIN[/E] induces changes in gene expression that promote glioblastoma growth,1
+Identification of the [E]PROTEIN[/E] domain of GAS41 as a pH-dependent reader of histone MODIFICATION,0
+Identification of the YEATS domain of [E]PROTEIN[/E] as a pH-dependent reader of histone MODIFICATION,0
+Identification of the YEATS domain of GAS41 as a pH-dependent reader of [E]PROTEIN[/E] MODIFICATION,1
+"As generation of site-specific PTMs in proteins is challenging, we used short synthetic peptides to quantify the effects on tubulin binding of three site-specific PTMs located within the [E]PROTEIN[/E] and PHF6 (residues 306-311) hexapeptide motifs: K280 acetylation, Y310 phosphorylation, and K311 MODIFICATION",0
+"As generation of site-specific PTMs in proteins is challenging, we used short synthetic peptides to quantify the effects on tubulin binding of three site-specific PTMs located within the PHF6_ (paired helical filament [PHF] residues 275-280) and [E]PROTEIN[/E]: K280 acetylation, Y310 phosphorylation, and K311 MODIFICATION",0
+"As generation of site-specific PTMs in proteins is challenging, we used short synthetic peptides to quantify the effects on tubulin binding of three site-specific PTMs located within the PHF6_ (paired helical filament [PHF] residues 275-280) and PHF6 (residues 306-311) hexapeptide motifs: [E]PROTEIN[/E] acetylation, Y310 phosphorylation, and K311 MODIFICATION",0
+"As generation of site-specific PTMs in proteins is challenging, we used short synthetic peptides to quantify the effects on tubulin binding of three site-specific PTMs located within the PHF6_ (paired helical filament [PHF] residues 275-280) and PHF6 (residues 306-311) hexapeptide motifs: K280 acetylation, [E]PROTEIN[/E] phosphorylation, and K311 MODIFICATION",0
+"As generation of site-specific PTMs in proteins is challenging, we used short synthetic peptides to quantify the effects on tubulin binding of three site-specific PTMs located within the PHF6_ (paired helical filament [PHF] residues 275-280) and PHF6 (residues 306-311) hexapeptide motifs: K280 acetylation, Y310 phosphorylation, and [E]PROTEIN[/E] MODIFICATION",1
+[E]PROTEIN[/E] restricts HBV transcription and replication through catalyzing deMODIFICATION of histone H3 associated with cccDNA minichromosome,0
+SIRT7 restricts [E]PROTEIN[/E] transcription and replication through catalyzing deMODIFICATION of histone H3 associated with cccDNA minichromosome,0
+SIRT7 restricts HBV transcription and replication through catalyzing deMODIFICATION of [E]PROTEIN[/E] associated with cccDNA minichromosome,1
+"[E]PROTEIN[/E], as an NAD+-dependent histone TRANSFERASE, could bind to cccDNA through interaction with HBV core protein where it catalyzed histone 3 lysine 122 (H3K122) deMODIFICATION",0
+"Silent mating type information regulation 2 homolog 7 (SIRT7), as an NAD+-dependent [E]PROTEIN[/E] TRANSFERASE, could bind to cccDNA through interaction with HBV core protein where it catalyzed histone 3 lysine 122 (H3K122) deMODIFICATION",0
+"Silent mating type information regulation 2 homolog 7 (SIRT7), as an NAD+-dependent histone TRANSFERASE, could bind to cccDNA through interaction with [E]PROTEIN[/E] where it catalyzed histone 3 lysine 122 (H3K122) deMODIFICATION",0
+"Silent mating type information regulation 2 homolog 7 (SIRT7), as an NAD+-dependent histone TRANSFERASE, could bind to cccDNA through interaction with HBV core protein where [E]PROTEIN[/E] catalyzed histone 3 lysine 122 (H3K122) deMODIFICATION",0
+"Silent mating type information regulation 2 homolog 7 (SIRT7), as an NAD+-dependent histone TRANSFERASE, could bind to cccDNA through interaction with HBV core protein where it catalyzed [E]PROTEIN[/E] deMODIFICATION",1
+"[E]PROTEIN[/E] MODIFICATION sites on histones including H2A, H2B, H3 and H4 in H",1
+"13 lysine MODIFICATION sites on [E]PROTEIN[/E] including H2A, H2B, H3 and H4 in H",1
+13 lysine MODIFICATION sites on histones including [E]PROTEIN[/E],1
+"The different HSA derivatives, namely, acetylated [E]PROTEIN[/E], MODIFIED HSA (sHSA) and guanidinated HSA (gHSA), thus obtained, were found to be homogeneous with respect to charge and size and characterized in detail in terms of mean residue ellipticity, Stokes radius, tryptophan fluorescence, bilirubin binding and the photochemistry of their complexes with bilirubin",0
+"The different HSA derivatives, namely, acetylated HSA (aHSA), MODIFIED [E]PROTEIN[/E] and guanidinated HSA (gHSA), thus obtained, were found to be homogeneous with respect to charge and size and characterized in detail in terms of mean residue ellipticity, Stokes radius, tryptophan fluorescence, bilirubin binding and the photochemistry of their complexes with bilirubin",1
+"The different HSA derivatives, namely, acetylated HSA (aHSA), MODIFIED HSA (sHSA) and guanidinated [E]PROTEIN[/E], thus obtained, were found to be homogeneous with respect to charge and size and characterized in detail in terms of mean residue ellipticity, Stokes radius, tryptophan fluorescence, bilirubin binding and the photochemistry of their complexes with bilirubin",0
+"[E]PROTEIN[/E] inhibited p23 MODIFICATION and nuclear translocation, attenuated COX-2 transcription in a p23-dependent manner, and markedly suppressed tumor growth",0
+"M16 inhibited [E]PROTEIN[/E] MODIFICATION and nuclear translocation, attenuated COX-2 transcription in a p23-dependent manner, and markedly suppressed tumor growth",1
+"M16 inhibited p23 MODIFICATION and nuclear translocation, attenuated COX-2 transcription in a [E]PROTEIN[/E]-dependent manner, and markedly suppressed tumor growth",0
+"[E]PROTEIN[/E] GROUP promotes p23 MODIFICATION at K7, K33, and K79, which drives its nuclear translocation for COX-2 transcription and consequently fascinates tumor growth",0
+"Intratumor GROUP promotes [E]PROTEIN[/E] MODIFICATION at K7, K33, and K79, which drives its nuclear translocation for COX-2 transcription and consequently fascinates tumor growth",1
+"Intratumor GROUP promotes p23 MODIFICATION at [E]PROTEIN[/E], K33, and K79, which drives its nuclear translocation for COX-2 transcription and consequently fascinates tumor growth",1
+"Intratumor GROUP promotes p23 MODIFICATION at K7, [E]PROTEIN[/E], and K79, which drives its nuclear translocation for COX-2 transcription and consequently fascinates tumor growth",1
+"Intratumor GROUP promotes p23 MODIFICATION at K7, K33, and [E]PROTEIN[/E], which drives its nuclear translocation for COX-2 transcription and consequently fascinates tumor growth",1
+[E]PROTEIN[/E] mediates the MODIFICATION of SP5 which activates transcription of PDPK1 to promote the viability and glycolysis of prostate cancer cells,0
+CPT1A mediates the MODIFICATION of [E]PROTEIN[/E] which activates transcription of PDPK1 to promote the viability and glycolysis of prostate cancer cells,1
+CPT1A mediates the MODIFICATION of SP5 which activates transcription of [E]PROTEIN[/E] to promote the viability and glycolysis of prostate cancer cells,0
+"Mechanistically, [E]PROTEIN[/E] promoted the MODIFICATION of SP5, which strengthened the binding between SP5 and the promoter of PDPK1",0
+"Mechanistically, CPT1A promoted the MODIFICATION of [E]PROTEIN[/E], which strengthened the binding between SP5 and the promoter of PDPK1",1
+"Mechanistically, CPT1A promoted the MODIFICATION of SP5, which strengthened the binding between [E]PROTEIN[/E] and the promoter of PDPK1",0
+"Mechanistically, CPT1A promoted the MODIFICATION of SP5, which strengthened the binding between SP5 and the promoter of [E]PROTEIN[/E]",0
+"[E]PROTEIN[/E] confers lipid metabolism reprogramming, tumour growth and metastasis depending on the SIRT7-mediated deMODIFICATION of PRMT5 K387 in tumours",0
+"PRMT5 confers lipid metabolism reprogramming, tumour growth and metastasis depending on the [E]PROTEIN[/E]-mediated deMODIFICATION of PRMT5 K387 in tumours",0
+"PRMT5 confers lipid metabolism reprogramming, tumour growth and metastasis depending on the SIRT7-mediated deMODIFICATION of [E]PROTEIN[/E] in tumours",1
+"Functionally, the deMODIFICATION of [E]PROTEIN[/E] promotes lipid metabolism reprogramming, tumour growth and metastasis in vitro and in vivo in tumours",1
+Further studies demonstrated that [E]PROTEIN[/E] promotes the MODIFICATION of CTBP1 and mediates the transcription suppressing activity of it,0
+Further studies demonstrated that KAT2A promotes the MODIFICATION of [E]PROTEIN[/E] and mediates the transcription suppressing activity of it,1
+Further studies demonstrated that KAT2A promotes the MODIFICATION of CTBP1 and mediates the transcription suppressing activity of [E]PROTEIN[/E],0
+"Moreover, MODIFICATION of [E]PROTEIN[/E] was found to be up-regulated in prostate cancer cell",1
+MODIFICATION of [E]PROTEIN[/E] mediated by KAT2A suppresses its inhibitory activity on the transcription of CDH1 to promote the progression of prostate cancer,1
+MODIFICATION of CTBP1 mediated by [E]PROTEIN[/E] suppresses its inhibitory activity on the transcription of CDH1 to promote the progression of prostate cancer,0
+MODIFICATION of CTBP1 mediated by KAT2A suppresses its inhibitory activity on the transcription of [E]PROTEIN[/E] to promote the progression of prostate cancer,0
+"Specifically, knockdown of [E]PROTEIN[/E] diminished H4 MODIFICATION",0
+"Specifically, knockdown of OGDH diminished [E]PROTEIN[/E] MODIFICATION",1
+"Expression of TRANSFERASE activity-defective [E]PROTEIN[/E] Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, c-Myc, GLUT1, and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A [E]PROTEIN[/E] reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, c-Myc, GLUT1, and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces [E]PROTEIN[/E] MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, c-Myc, GLUT1, and LDHA",1
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased [E]PROTEIN[/E] stability and subsequently decreased expression of cyclin D1, c-Myc, GLUT1, and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of [E]PROTEIN[/E], c-Myc, GLUT1, and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, [E]PROTEIN[/E], GLUT1, and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, c-Myc, [E]PROTEIN[/E], and LDHA",0
+"Expression of TRANSFERASE activity-defective KAT2A Y645A reduces H3K79 MODIFICATION and 14-3-3_ expression, leading to decreased _-catenin stability and subsequently decreased expression of cyclin D1, c-Myc, GLUT1, and [E]PROTEIN[/E]",0
+The growth and differentiation potential of Y79 human retinoblastoma cells was assessed in vitro following treatment with the differentiating agent MODIFIED [E]PROTEIN[/E],1
